@@ -1,7 +1,7 @@
 <h1>typescript-mongo-alunos-crud</h1>
 <br>
 <h2><img style="height: 25px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d1.png" />  Sobre o projeto</h2>
-<p>Api Desenvolvida com foco no typescript que consiste em uma api simples de gerenciamento de alunos com um CRUDt</p>
+<p>Api Desenvolvida com foco no typescript que consiste em uma api simples de gerenciamento de alunos com um CRUD</p>
 
 <br>
 
@@ -15,7 +15,7 @@
 
 <br>
 
-<li>Foi usado mongoDBAtlas utilizando a biblioteca mongoose para manipulação dos dados</li>
+<li>Foi usado mongoDBAtlas, utilizando a biblioteca mongoose para manipulação dos dados</li>
 
 <br>
 <h2><img style="height: 25px" src="https://github.githubassets.com/images/icons/emoji/unicode/2139.png" />  Pré-requisitos: </h2>
